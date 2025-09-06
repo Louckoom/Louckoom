@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Louckoom
 - 👀 I’m interested in storytelling
 - 🌱 I’m currently learning Web development
-- 📫 How to reach me : [meetlsch.com/](https://meetlsch.com/Pages/Contact.html)
+- 📫 How to reach me : [meetlsch.com/](https://meetlsch.com)
 - 😄 Pronouns: He/him
